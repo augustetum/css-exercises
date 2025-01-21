@@ -1,0 +1,19 @@
+.title {
+    background-color: rgb(250, 77, 135);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#bigblue {
+    color: rgb(17, 17, 255);
+    font-size: 36px;
+}
+
+.title.important {
+    font-size: 24px;
+}
+
+#boldgreen {
+    background-color: rgb(176, 244, 75);
+    font-size: 24px;
+    font-weight: bold;
+}
